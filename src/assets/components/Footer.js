@@ -43,7 +43,6 @@ export const Footer = () => {
         <div className="text-center text-white opacity-80 pb-4">
           © 2023 Created By : Damida Shu Mudita
           <a className="text-white opacity-80 pl-1" href="#!">
-            #
           </a>
         </div>
       </footer>
